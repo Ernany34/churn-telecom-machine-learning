@@ -1,4 +1,4 @@
-![Capa do projeto](A_digital_graphic_design_banner_titled_PREVISÃO_D.png)
+![Capa do projeto](A_digital_graphic_design_banner_titled_PREVISÃO_D.png.png)
 
 # Previsão de Cancelamento de Clientes (Churn)
 
