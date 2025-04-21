@@ -1,4 +1,4 @@
-![Capa do projeto](capa-projeto-churn.png.png)
+![Capa do projeto](capa-projeto-churn.png)
 
 # Previsão de Cancelamento de Clientes (Churn)
 
