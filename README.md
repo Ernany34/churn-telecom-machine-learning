@@ -87,3 +87,5 @@ LinkedIn: [linkedin.com/in/ernanyamaral](https://www.linkedin.com/in/ernanyamara
 ---
 
 📄 [Baixe o PDF com o projeto completo](Projeto_Churn_Ernany.pdf)
+💻 [Acesse o notebook com o código completo](projeto_churn_telecom.ipynb)
+
