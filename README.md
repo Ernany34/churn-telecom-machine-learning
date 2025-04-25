@@ -77,15 +77,6 @@ LinkedIn: [linkedin.com/in/ernanyamaral](https://www.linkedin.com/in/ernanyamara
 
 ---
 
-## Próximos passos
-
-- Criar dashboard com Streamlit
-- Testar modelos avançados (XGBoost, LightGBM)
-- Balanceamento de classes e ajuste de thresholds
-- Subir esse case no LinkedIn com storytelling
-
----
-
 📄 [Baixe o PDF com o projeto completo](Projeto_Churn_Ernany.pdf)
 💻 [Acesse o notebook com o código completo](projeto_churn_telecom.ipynb)
 
