@@ -72,11 +72,11 @@ Este projeto demonstrou como aplicar Machine Learning para prever churn de clien
 Graduando em Economia e Marketing, une visão estratégica de negócios com formação analítica. É sócio-fundador de uma empresa de serviços de backoffice, onde lidera o desenvolvimento de soluções com inteligência artificial para automatização do atendimento e ganho de eficiência operacional.  
 Atua com foco em projetos de dados aplicados à realidade do mercado, com interesse em aliar ciência de dados e decisões de negócio para gerar impacto real.
 
-🔗 GitHub: [github.com/Ernany34](https://github.com/Ernany34)  
+GitHub: [github.com/Ernany34](https://github.com/Ernany34)  
 LinkedIn: [linkedin.com/in/ernanyamaral](https://www.linkedin.com/in/ernanyamaral/)
 
 ---
 
-📄 [Baixe o PDF com o projeto completo](Projeto_Churn_Ernany.pdf)
-💻 [Acesse o notebook com o código completo](projeto_churn_telecom.ipynb)
+[Baixe o PDF com o projeto completo](Projeto_Churn_Ernany.pdf)
+[Acesse o notebook com o código completo](projeto_churn_telecom.ipynb)
 
